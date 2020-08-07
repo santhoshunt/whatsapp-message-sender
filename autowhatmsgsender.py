@@ -8,4 +8,4 @@ msg=input("Enter the message you wanna send :").strip()
 #the code used to send messgaes
 pywhatkit.sendwhatmsg("+91"+str(s),msg,hours,min)
 #the message will be sent to the user in 30 seconds python opens whatsappweb
-#the message will be sent @6.10 PM
+#the message will be sent
